@@ -1,0 +1,5 @@
+nametool = nmap
+outputoption = -oN
+default = -p-
+nametool = dirb
+outputoption = -o
